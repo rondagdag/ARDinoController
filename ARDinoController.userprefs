@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Allosaurus/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" line="331" column="1" />
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Allosaurus/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" line="351" column="1" />
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Allosaurus/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" line="289" column="12" />
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Allosaurus/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" line="308" column="1" />
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Allosaurus/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" line="246" column="1" />
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Examples/SQSExample.cs" line="96" column="1" />
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Examples/SQSExample.cs" line="94" column="1" />
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Examples/SQSExample.cs" line="69" column="1" />
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Scripts/TCPConnection.cs" line="36" column="1" />
+      <Breakpoint file="/Users/Ron/Documents/ARDinoController/Assets/Scripts/socketScript.cs" line="82" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
