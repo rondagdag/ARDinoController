@@ -138,7 +138,8 @@ public class socketScript : MonoBehaviour {
 
 			switch (command) {
 			case "FAR":
-				dinoController.action = DinoController.Action.Idle;
+				//dinoController.action = DinoController.Action.Idle;
+				dinoController.action = DinoController.Action.Hit;
 				break;
 			case "NEAR":
 				dinoController.action = DinoController.Action.Jumping;
@@ -151,11 +152,13 @@ public class socketScript : MonoBehaviour {
 				break;
 			case "UP":
 				//dinoController.value += 0.25f;
-				dinoController.action = DinoController.Action.Hit;
+				//dinoController.action = DinoController.Action.Hit;
+				dinoController.action = DinoController.Action.Jumping;
 				break;
 			case "DOWN":
 				//dinoController.value -= 0.25f;
-				dinoController.action = DinoController.Action.Attack;
+				//dinoController.action = DinoController.Action.Attack;
+				dinoController.action = DinoController.Action.Idle;
 				break;
 			}
 
